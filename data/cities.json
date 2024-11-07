@@ -3,6 +3,7 @@
     {
       "cityName": "Lisbon",
       "country": "Portugal",
+      "flag":"https://flagcdn.com/w320/pt.png",
       "emoji": "🇵🇹",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
@@ -15,7 +16,9 @@
     {
       "cityName": "Madrid",
       "country": "Spain",
+      "flag": "https://flagcdn.com/w320/es.png",
       "emoji": "🇪🇸",
+      
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
       "position": {
@@ -27,6 +30,7 @@
     {
       "cityName": "Berlin",
       "country": "Germany",
+      "flag": "https://flagcdn.com/w320/de.png",
       "emoji": "🇩🇪",
       "date": "2027-02-12T09:24:11.863Z",
       "notes": "Amazing 😃",
