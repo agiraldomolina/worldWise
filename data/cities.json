@@ -28,11 +28,38 @@
       "id": 17806751
     },
     {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "flag": "https://flagcdn.com/w320/es.png",
+      "emoji": "🇪🇸",
+      
+      "date": "2027-07-18T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 1780665441
+    },
+    {
       "cityName": "Berlin",
       "country": "Germany",
       "flag": "https://flagcdn.com/w320/de.png",
       "emoji": "🇩🇪",
       "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Hamburgo",
+      "country": "Germany",
+      "flag": "https://flagcdn.com/w320/de.png",
+      "emoji": "🇩🇪",
+      "date": "2027-02-15T09:24:11.863Z",
       "notes": "Amazing 😃",
       "position": {
         "lat": 52.53586782505711,
