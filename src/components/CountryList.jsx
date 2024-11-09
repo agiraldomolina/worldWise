@@ -24,7 +24,7 @@ function CountryList({cities, isLoading}) {
                 .map((country)=>
                     <CountryItem 
                         country={country}
-                        key={country}
+                        key={country.country}
                     />
                 )
             }
