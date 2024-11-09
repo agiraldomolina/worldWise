@@ -9,11 +9,15 @@ const formatDate = (date) =>
     }).format(new Date(date));
 
 function CityItem({city}) {
-    const {cityName, date,flag, id} = city;
+    const {cityName, date,flag, id, position} = city;
+    console.log(position)
 
     return (
         <li className={styles.cityItemList}>
-            <Link className={styles.cityItem} to={`${id}`}>
+            <Link 
+                className={styles.cityItem} 
+                to={`${id}?lat=${position.lat}&lng=${position.lng}`}
+            >
                 <span >
                     <img className={styles.imgFlag} src={flag} />
                 </span>
